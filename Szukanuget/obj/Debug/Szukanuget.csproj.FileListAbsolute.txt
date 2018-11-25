@@ -1,0 +1,15 @@
+D:\Iskola\Iskola\Iskola\programozás2018-19\Szukanuget\Szukanuget\bin\Debug\Szukanuget.exe.config
+D:\Iskola\Iskola\Iskola\programozás2018-19\Szukanuget\Szukanuget\bin\Debug\Szukanuget.exe
+D:\Iskola\Iskola\Iskola\programozás2018-19\Szukanuget\Szukanuget\bin\Debug\Szukanuget.pdb
+D:\Iskola\Iskola\Iskola\programozás2018-19\Szukanuget\Szukanuget\obj\Debug\Szukanuget.csprojAssemblyReference.cache
+D:\Iskola\Iskola\Iskola\programozás2018-19\Szukanuget\Szukanuget\obj\Debug\Szukanuget.Form1.resources
+D:\Iskola\Iskola\Iskola\programozás2018-19\Szukanuget\Szukanuget\obj\Debug\Szukanuget.Properties.Resources.resources
+D:\Iskola\Iskola\Iskola\programozás2018-19\Szukanuget\Szukanuget\obj\Debug\Szukanuget.csproj.GenerateResource.cache
+D:\Iskola\Iskola\Iskola\programozás2018-19\Szukanuget\Szukanuget\obj\Debug\Szukanuget.csproj.CoreCompileInputs.cache
+D:\Iskola\Iskola\Iskola\programozás2018-19\Szukanuget\Szukanuget\obj\Debug\Szukanuget.exe
+D:\Iskola\Iskola\Iskola\programozás2018-19\Szukanuget\Szukanuget\obj\Debug\Szukanuget.pdb
+D:\Iskola\Iskola\Iskola\programozás2018-19\Szukanuget\Szukanuget\bin\Debug\Google.Protobuf.dll
+D:\Iskola\Iskola\Iskola\programozás2018-19\Szukanuget\Szukanuget\bin\Debug\MySql.Data.dll
+D:\Iskola\Iskola\Iskola\programozás2018-19\Szukanuget\Szukanuget\bin\Debug\Google.Protobuf.xml
+D:\Iskola\Iskola\Iskola\programozás2018-19\Szukanuget\Szukanuget\bin\Debug\MySql.Data.xml
+D:\Iskola\Iskola\Iskola\programozás2018-19\Szukanuget\Szukanuget\obj\Debug\Szukanuget.csproj.CopyComplete
